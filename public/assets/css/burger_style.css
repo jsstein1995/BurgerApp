@@ -1,0 +1,17 @@
+h1 {
+    color: black
+}
+.i-am-centered {
+     margin: auto; max-width: 300px;
+     padding-bottom: 50px;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: lightgoldenrodyellow; 
+}
+
+.container {
+    padding-bottom: 150px;
+}
